@@ -22,7 +22,7 @@ Basic Setup to run the server and routes.
 Save server.js in the root directory of the NodeJS directory.
 Run with:
 
-    ```node server.js ```
+  ```node server.js ```
 >Allow through your firewall to use this port.
 
 ### Browser
