@@ -23,7 +23,7 @@ Save server.js in the root directory of the NodeJS directory.
 Run with:
 
   ```node server.js ```
->Allow through your firewall to use this port.
+> Allow through your firewall to use this port.
 
 ### Browser
 Navigate to http://localhost:8000 
