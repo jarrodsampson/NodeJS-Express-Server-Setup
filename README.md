@@ -15,7 +15,7 @@ Basic Setup to run the server and routes.
 
 ### Express
 1. Install Express through node package manager.
-  npm install express -g
+    npm install express -g
 
 ### Server.js
 Save server.js in the root directory of the NodeJS directory.
