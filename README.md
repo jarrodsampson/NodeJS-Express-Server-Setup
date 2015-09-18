@@ -14,13 +14,14 @@ Basic Setup to run the server and routes.
 2. Verify and run npm -v to make sure the package manager is installed correctly.
 
 ### Express
-1. Install Express through node package manager.
+  Install Express through node package manager.
 
   ```npm install express -g ```
 
 ### Server.js
-Save server.js in the root directory of the NodeJS directory.
-Run with:
+  Save server.js in the root directory of the NodeJS directory.
+  
+  Run with:
 
   ```node server.js ```
 > Allow through your firewall to use this port.
