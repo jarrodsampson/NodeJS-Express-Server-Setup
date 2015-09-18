@@ -9,10 +9,23 @@ Basic Setup to run the server and routes.
 
 ## Getting Started
 
- 1. Include jQuery in your code.
- 2. Download and include the sliver.js file.
- 3. Set the class to sliver and the data-modale to the id of the modal you want.
- 4. Pick your selector and apply sliver method.
+### Installation
+1. Install NodeJS on your system.
+2. Verify and run npm -v to make sure the package manager is installed correctly.
+
+### Express
+1. Install Express through node package manager.
+  npm install express -g
+
+### Server.js
+Save server.js in the root directory of the NodeJS directory.
+Run with:
+  node server.js
+<Allow through your firewall to use this port.
+
+### Browser
+Navigate to http://localhost:8000 
+
  
 ## License
 
