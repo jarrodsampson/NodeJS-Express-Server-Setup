@@ -7,7 +7,7 @@ Basic Setup to run the server and routes.
 
 ![Atom](https://raw.githubusercontent.com/planlodge/NodeJS-Express-Server-Setup/master/demo/recording.gif)
 
-## Getting Started
+## Getting Started 
 
 ### Installation
 1. Install NodeJS on your system.
